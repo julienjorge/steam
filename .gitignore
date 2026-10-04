@@ -19,3 +19,6 @@ env/
 
 # Énoncé Jedha, contenu à accès restreint
 *.pdf
+
+# Captures de travail pour les slides (les captures Databricks livrées sont dans databricks/)
+images/

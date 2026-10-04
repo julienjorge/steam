@@ -80,6 +80,8 @@ Arborescence du dépôt :
 - README.md
 - steam.ipynb, le notebook
 - data/raw/steam_game_output.json, la copie de référence des données
+- databricks/, les captures des huit graphiques tels qu'ils s'affichent dans Databricks,
+  avec le code de la cellule qui les produit
 
 Prérequis : un compte Databricks (l'édition gratuite suffit). Aucune configuration ni
 clé n'est nécessaire : le fichier est lu depuis une adresse publique.
